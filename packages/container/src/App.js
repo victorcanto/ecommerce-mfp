@@ -2,6 +2,7 @@ import React from 'react';
 import { MarketingApp } from './components/MarketingApp';
 
 // to Deploy
+// to Build AWS
 
 export default function App() {
   return (
