@@ -14,6 +14,7 @@ Este repositório contém todos os microfrontends criados junto ao Module Federa
 - Vue
 - Module Federation Plugin (Webpack 5)
 - Material UI
+- AWS
 
 ## Clonando repositório
 
