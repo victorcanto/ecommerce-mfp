@@ -4,7 +4,7 @@ import { mount } from 'marketing/MarketingApp';
 
 // Generic Integration
 
-export function MarketingApp() {
+export default function MarketingApp() {
   const ref = useRef(null);
   const history = useHistory();
 
