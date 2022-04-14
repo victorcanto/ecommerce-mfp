@@ -28,8 +28,6 @@ export default function App() {
   useEffect(() => {
     if (isSignedIn) {
       history.push('/dashboard');
-    } else {
-      history.push('/');
     }
   }, [isSignedIn]);
 
