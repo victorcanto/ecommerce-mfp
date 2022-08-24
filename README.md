@@ -21,13 +21,13 @@ Este repositório contém todos os microfrontends criados junto ao Module Federa
 > No seu terminal, executar o comando:
 
 ```bash
-git clone git@github.com:victorcanto/desafio-ford.git
+git clone git@github.com:victorcanto/ecommerce-mfp.git
 ```
 
 ou
 
 ```bash
-git clone https://github.com/victorcanto/desafio-ford.git
+git clone git@github.com:victorcanto/ecommerce-mfp.git
 ```
 
 ## Instalando Dependências
@@ -46,5 +46,5 @@ npm install
   npm start
 ```
 
-Autor: [Victor Canto](https://www.linkedin.com/in/vscanto/)
+Dev: [Victor Canto](https://www.linkedin.com/in/vscanto/)
 
