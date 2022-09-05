@@ -27,7 +27,7 @@ git clone git@github.com:victorcanto/ecommerce-mfp.git
 ou
 
 ```bash
-git clone git@github.com:victorcanto/ecommerce-mfp.git
+git clone https://github.com/victorcanto/ecommerce-mfp.git
 ```
 
 ## Instalando Dependências
